@@ -87,7 +87,7 @@ main {
    background-color: white;
    padding: 30px 20px;
    border-radius:10px;
-  
+ gap:20px; 
    border: 2px solid black;
       flex-wrap: wrap;
         width: 500px;
